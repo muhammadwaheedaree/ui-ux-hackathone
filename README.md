@@ -37,8 +37,8 @@ View the live version of the project here:
 - **Adherence to Figma Template (75 points)**
 
 ## Submission Details
-- **Source Code:** [https://github.com/muhammadwaheedaree/ui-ux-hackathone]
-- **Hosted Version:** [https://ui-ux-hackathone-gamma.vercel.app/]
+- **Source Code:** https://github.com/muhammadwaheedaree/ui-ux-hackathone
+- **Hosted Version:** https://ui-ux-hackathone-gamma.vercel.app/
 
 ## Resources
 - [Next.js Documentation](https://nextjs.org/docs)
@@ -49,8 +49,8 @@ View the live version of the project here:
 ## Contact
 For any queries or further information, feel free to contact me:
 - **Name:** Waheed
-- **Email:** [muhammadwaheedaree128@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/muhammadwaheedaree/]
+- **Email:** muhammadwaheedaree128@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/muhammadwaheedaree/)
 
 ---
 **Governor IT Initiative - Empowering Future Tech Leaders**
