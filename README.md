@@ -43,7 +43,7 @@ View the live version of the project here:
 ## Resources
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Figma Template Link](https://www.figma.com)
+- [Figma Template Link](https://www.figma.com/design/VQn746e6fpmahgcnsi5Wae/Ecommerce-Store-(Copy))
 
 
 ## Contact
