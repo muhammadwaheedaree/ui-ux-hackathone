@@ -9,9 +9,8 @@ This project was developed as part of the **Next.js Design Jam 2024** during the
 - **Objective:** Build a pixel-perfect, responsive UI based on a specific Figma template.
 
 ## Assigned Figma Template
-- **Template Number:** [Template 5 - Recommended by Sir Ubaid and Sir Anas]
-- **Template Link:** [https://www.figma.com/design/VQn746e6fpmahgcnsi5Wae/Ecom
-merce-Store-(Copy)]
+- **Template Number:** Template 5 - Recommended by Sir Ubaid and Sir Anas
+- **Template Link:** [https://www.figma.com/design/VQn746e6fpmahgcnsi5Wae/Ecommerce-Store-(Copy)]
 
 ## Live Demo
 View the live version of the project here:
