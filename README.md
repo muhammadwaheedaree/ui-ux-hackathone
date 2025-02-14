@@ -48,7 +48,7 @@ View the live version of the project here:
 
 ## Contact
 For any queries or further information, feel free to contact me:
-- **Name:** Waheed
+- **Name:** Muhammad Waheed
 - **Email:** muhammadwaheedaree128@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/muhammadwaheedaree/
 
