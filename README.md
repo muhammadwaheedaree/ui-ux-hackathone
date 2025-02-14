@@ -50,7 +50,7 @@ View the live version of the project here:
 For any queries or further information, feel free to contact me:
 - **Name:** Waheed
 - **Email:** muhammadwaheedaree128@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/muhammadwaheedaree/)
+- **LinkedIn:** https://www.linkedin.com/in/muhammadwaheedaree/
 
 ---
 **Governor IT Initiative - Empowering Future Tech Leaders**
